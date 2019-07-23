@@ -1,6 +1,6 @@
 # Simulation of Queuing Models with Simulus
 
-<img src="notebooks/figs/queue.jpg" align="left" width="35%" alt="queue">
+<img src="notebooks/figs/queue.jpg" width="35%" alt="queue">
 
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/liuxfiu/qmodels.git/master?filepath=notebooks%2Findex.ipynb)
 
