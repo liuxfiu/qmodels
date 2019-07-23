@@ -1,5 +1,5 @@
-greenlet==0.4.15
 matplotlib==3.1.1
 numpy==1.16.4
 scipy==1.3.0
-simulus==1.1.4
+nbsphinx==0.4.2
+simulus
