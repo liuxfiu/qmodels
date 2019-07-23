@@ -14,7 +14,7 @@ You have three options:
 
 1. Launch a live notebook server with these notebooks using [Binder](https://beta.mybinder.org/), which provides an executable environment for running Jupyter notebooks. Access the binder at the following URL: https://mybinder.org/v2/gh/liuxfiu/qmodels.git/master?filepath=notebooks%2Findex.ipynb
 
-2. Run these notebooks on your own machine. The notebooks are available in this repository's [notebooks](../notebooks) directory. To run the notebooks, you need to first have the following packages installed:
+2. Run these notebooks on your own machine. The notebooks are available in this repository's 'notebooks' directory. To run the notebooks, you need to first have the following packages installed:
    * **jupyter**: a web application for sharing interactive documents that contain text, code, and data visualization
    * **numpy**: a library for efficient representation of multi-dimensional arrays
    * **scipy**: a library for numerical computations, including linear algebra and statistics
