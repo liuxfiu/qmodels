@@ -2,7 +2,7 @@
 
 **Jason Liu, July 2019.**
 
-<img src="notebooks/figs/queue.jpg" width="35%" alt="queue">
+<img src="https://raw.githubusercontent.com/liuxfiu/qmodels/master/notebooks/figs/queue.jpg" width="35%" alt="queue">
 
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/liuxfiu/qmodels.git/master?filepath=notebooks%2Findex.ipynb)
 

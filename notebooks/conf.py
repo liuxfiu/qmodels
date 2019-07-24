@@ -14,7 +14,7 @@ import os
 import sys
 sys.path.insert(0, os.path.abspath('..'))
 
-import simulus
+#import simulus
 
 # -- Project information -----------------------------------------------------
 
@@ -25,7 +25,13 @@ release = '1.0.0'
 
 # -- General configuration ---------------------------------------------------
 
-master_doc = 'qmodels'
+# The master toctree document
+master_doc = 'index'
+
+source_suffix = {
+    '.rst': 'restructuredtext',
+    '.md': 'markdown',
+}
 
 # Add any Sphinx extension module names here, as strings. They can be
 # extensions coming with Sphinx (named 'sphinx.ext.*') or your custom
@@ -45,7 +51,7 @@ templates_path = ['_templates']
 # List of patterns, relative to source directory, that match files and
 # directories to ignore when looking for source files.
 # This pattern also affects html_static_path and html_extra_path.
-exclude_patterns = ['_build', '**.ipynb_checkpoints', 'Thumbs.db', '.DS_Store']
+exclude_patterns = ['_build', '**.ipynb_checkpoints', 'Thumbs.db', '.DS_Store', 'notyet']
 
 # -- Options for HTML output -------------------------------------------------
 
