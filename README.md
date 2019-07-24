@@ -4,7 +4,7 @@
 
 <img src="https://raw.githubusercontent.com/liuxfiu/qmodels/master/notebooks/figs/queue.jpg" width="35%" alt="queue">
 
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/liuxfiu/qmodels.git/master?filepath=notebooks%2Findex.ipynb)
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/liuxfiu/qmodels.git/master?filepath=notebooks%2Fintro.ipynb)
 
 This repository contains a tutorial describing how to use [simulus](https://simulus.readthedocs.io/en/latest/) to model queuing systems. Simulus is an open-source discrete-event simulator in Python. The tutorial consists of several Jupyter notebooks, on which we develop and run simulation code.
 
