@@ -14,14 +14,14 @@ import os
 import sys
 sys.path.insert(0, os.path.abspath('..'))
 
-#import simulus
+import qmodels
 
 # -- Project information -----------------------------------------------------
 
 project = 'qmodels'
 copyright = '2019, Jason Liu'
 author = 'Jason Liu'
-release = '1.0.0'
+release = qmodels.__version__
 
 # -- General configuration ---------------------------------------------------
 
