@@ -23,5 +23,6 @@ You have three options:
    ```
    python -m pip install --user qmodels
    ```
+   The `qmodels` package contains all the notebooks as well as the example code. Since `qmodels` depends on all the packages listed above, they will be installed by `pip` before the `qmodels` package is installed. 
    
 3.  Read the documents online: http://qmodels.readthedocs.io/. However, you won't be able to run the code within the notebooks with this option.
